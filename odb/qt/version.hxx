@@ -36,8 +36,8 @@
 // libodb-qt version: odb interface version plus the bugfix
 // version.
 //
-#define LIBODB_QT_VERSION     1060000
-#define LIBODB_QT_VERSION_STR "1.6.0"
+#define LIBODB_QT_VERSION     1060100
+#define LIBODB_QT_VERSION_STR "1.6.1"
 
 #include <odb/post.hxx>
 

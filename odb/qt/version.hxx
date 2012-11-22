@@ -43,8 +43,8 @@
 // since if the Qt interface virsion is incremented then the bugfix version
 // must be incremented as well.
 //
-#define LIBODB_QT_VERSION     2010000
-#define LIBODB_QT_VERSION_STR "2.1.0"
+#define LIBODB_QT_VERSION     2010100
+#define LIBODB_QT_VERSION_STR "2.1.1"
 
 #include <odb/post.hxx>
 
